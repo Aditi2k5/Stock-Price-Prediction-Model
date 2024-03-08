@@ -1,0 +1,1 @@
+This is a basic Machine Learning Model trained to make stock price predictions based on kaggle dataset able to showcase the day on which loss and profits are made so that the users can chooose when to invest or trasde in stocks and when to not
